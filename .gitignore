@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+/dist
+# ignore packges insatlled by nom
+
+# put any other files you don't in here
+# such as .DS_Store(OSX) *.bak, etc.
